@@ -4168,7 +4168,7 @@ figcaption {
   justify-content: space-between;
   align-items: flex-start;
   max-width: 1000px;
-  margin-bottom: 60px;
+  margin-bottom: 160px;
   display: flex;
 }
 
@@ -4587,7 +4587,10 @@ figcaption {
     padding: 30px;
   }
 
-
+  .about-us-heading {
+    text-align: center;
+    margin-bottom: 80px;
+  }
 
   .about-us-container {
     flex-flow: column;
