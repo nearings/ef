@@ -4237,9 +4237,7 @@ figcaption {
     display: block;
   }
 
-  .navigation-items {
-    background-color: #fffceb;
-  }
+
 
   .cart {
     margin-left: 0;
@@ -4469,9 +4467,6 @@ figcaption {
     padding-right: 10px;
   }
 
-  .navigation-items {
-    background-color: #fffceb;
-  }
 
   .navigation {
     padding: 20px 30px;
@@ -4592,11 +4587,7 @@ figcaption {
     padding: 30px;
   }
 
-  .blog-detail-header-wrap {
-    text-align: left;
-    width: 90%;
-    max-width: 470px;
-  }
+
 
   .about-us-container {
     flex-flow: column;
@@ -4678,16 +4669,13 @@ figcaption {
     margin-right: 10px;
   }
 
-  .navigation-items {
-    background-color: #fffceb;
-  }
+ 
 
   .cart {
     margin-right: 20px;
   }
 
   .navigation {
-    background-color: #fffceb;
     padding-left: 20px;
     padding-right: 20px;
   }
